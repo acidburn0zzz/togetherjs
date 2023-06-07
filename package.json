@@ -9,7 +9,7 @@
     "url": "https://github.com/mozilla/togetherjs.git"
   },
   "dependencies": {
-    "ejs": "~2.5.5",
+    "ejs": "~3.1.7",
     "ejs-locals": "~1.0.2",
     "express": "~3.0.6",
     "grunt-amd-check": "~0.5.1",
