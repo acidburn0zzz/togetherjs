@@ -27,7 +27,7 @@
   "devDependencies": {
     "grunt-contrib-less": "~0.5.1",
     "grunt-contrib-csslint": "~0.1.2",
-    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-jshint": "~3.2.0",
     "grunt-contrib-requirejs": "~0.4.1",
     "grunt-contrib-watch": "~0.4.3",
     "grunt": "~0.4.1",
